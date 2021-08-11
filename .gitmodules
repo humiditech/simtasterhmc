@@ -1,0 +1,3 @@
+[submodule "lobster-recognition"]
+	path = lobster-recognition
+	url = https://github.com/hardefarogonondo/lobster-main-program.git
